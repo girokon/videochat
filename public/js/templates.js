@@ -1,0 +1,2 @@
+angular.module("templates").run(["$templateCache", function($templateCache) {$templateCache.put("js/components/app/index.html","<div class=\"container\">\n    <div class=\"col-md-12\">\n        <rtc-video id=\"r-video\" class=\"rtc-video\"></rtc-video>\n        <div id=\"l-video\" class=\"rtc-video hidden-xs hidden-sm\"></div>\n    </div>\n</div>");
+$templateCache.put("js/directives/rtcVideo/video.html","<div>\n\n</div>");}]);

@@ -1,0 +1,10 @@
+.rtc-video video {
+    width: 100%;
+}
+
+#l-video video{
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+}
